@@ -36,11 +36,9 @@ module.exports = {
       "4x1": ["56px", { lineHeight: "64px", letterSpacing: "-0.032em" }],
       "5xl": ["80px", { lineHeight: "80px", letterSpacing: "-0.032em" }],
     },
-    extend: {
-      fontFamily: {
-        satoshi: "Satoshi, sans-serif",
-        inter: "Inter, sans-serif",
-      },
+    fontFamily: {
+      satoshi: "Satoshi, sans-serif",
+      inter: "Inter, sans-serif",
     },
   },
 };
